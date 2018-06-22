@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<Project name="Loadout一键换装">
+	<Package name="Loadout一键换装">
+		<Key ID="STR_Gear_Loadout_换装给AI">
+			<Original>Gear Loadout to:</Original>
+			<Chinesesimp>快速换装换装给:</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_换装给玩家">
+			<Original>Gear Loadout to:Player</Original>
+			<Chinesesimp>快速换装换装给:玩家</Chinesesimp>
+		</Key>			
+		<Key ID="STR_Gear_Loadout_装备成功载入">
+			<Original>%1 Set the gear to load Success</Original>
+			<Chinesesimp>%1 装备成功载入.</Chinesesimp>
+		</Key>		
+		<Key ID="STR_Gear_Loadout_从AI复制装备">
+			<Original>Success copy gears from %1</Original>
+			<Chinesesimp>成功从 %1 复制装备</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_无法复制AI被删除">
+			<Original>Unable to copy, object not found</Original>
+			<Chinesesimp>无法复制，所选单位已被删除.</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_返回失败原先扮演的单位死亡或被删除">
+			<Original>The return failed, the original unit was killed or deleted.</Original>
+			<Chinesesimp>返回失败，原先扮演的单位死亡或被删除!</Chinesesimp>
+		</Key>		
+		<Key ID="STR_Gear_Loadout_快速换装">
+			<Original>Fast gear</Original>
+			<Chinesesimp>快速换装</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_军火库">
+			<Original> Arsenal</Original>
+			<Chinesesimp>军火库</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_到军火库中选取">
+			<Original>Go to Arsenal Select Gear</Original>
+			<Chinesesimp>打开虚拟军火库,从中选择装备</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_AI还是玩家">
+			<Original>AI/Player</Original>
+			<Chinesesimp>AI/玩家</Chinesesimp>
+		</Key>		
+		<Key ID="STR_Gear_Loadout_切换AI还是玩家">
+			<Original>Determine whether the target of copying or dressing is the player or AI (others)</Original>
+			<Chinesesimp>确定复制或者换装的目标是自己还是AI(他人)</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_确定">
+			<Original>Determine</Original>
+			<Chinesesimp>确定</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_复制">
+			<Original>Copy</Original>
+			<Chinesesimp>复制</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_从单位复制装备">
+			<Original>First select the copy source from the list of names</Original>
+			<Chinesesimp>首先从名字列表中选好复制来源</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_关闭">
+			<Original>Close</Original>
+			<Chinesesimp>关闭</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_目标单位无效">
+			<Original>Invalid target unit!</Original>
+			<Chinesesimp>目标单位无效!</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_该单位是在线玩家无法使用">
+			<Original>Invalid target unit!</Original>
+			<Chinesesimp>该单位是在线玩家无法使用!</Chinesesimp>
+		</Key>
+		<Key ID="STR_Gear_Loadout_玩家">
+			<Original>Player</Original>
+			<Chinesesimp>玩家</Chinesesimp>
+		</Key>	
+		<Key ID="STR_Gear_Loadout_目标单位被删除">
+			<Original>Target unit is deleted!</Original>
+			<Chinesesimp>目标单位被删除!</Chinesesimp>
+		</Key>		
+	</Package>
+</Project>
